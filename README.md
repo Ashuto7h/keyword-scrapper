@@ -2,7 +2,7 @@
 
 ## How to run
 
-- move to project directory
+- clone project and move to project directory
 - create a env using conda or venv along with pip.
 - use pip to install requirements
 
